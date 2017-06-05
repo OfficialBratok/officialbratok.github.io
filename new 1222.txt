@@ -1,0 +1,14 @@
+<html>
+ <head>
+  </head>
+  <body>
+  <title> Резюме </title>
+  <body>
+  <div>
+  Языки программирования
+  <li>PHP</li>
+   <li>JavaScript</li>
+    <li>Python</li>
+  </div>
+  </body>
+    </html>
